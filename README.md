@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krupa-makwana-33552231a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krupamakwana16@gmail.com) 
 
-## My coding stats/;
+## My coding stats:
 [![wakatime](https://wakatime.com/badge/user/fcafd886-e0c8-4fd5-9d64-02bee5693b1a.svg)](https://wakatime.com/@fcafd886-e0c8-4fd5-9d64-02bee5693b1a)
 
 # 💻 Tech Stack:
