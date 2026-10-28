@@ -5,13 +5,6 @@
 
 Learning & Building 🚀
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 Computer Engineering student
-- 🌱 Learning HTML, CSS & Web Development
-- 🚀 Building projects and improving my skills
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krupa-makwana-33552231a)
