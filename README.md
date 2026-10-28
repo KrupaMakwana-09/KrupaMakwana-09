@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Krupa Makwana</h1>
 
 <h3 align="center">
-  Computer Engineering Student | Aspiring Software Developer
+  Computer Engineering Student
 </h3>
 
 <p align="center">
@@ -12,20 +12,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Exploring+Web+Development;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
 </p>
-
 ---
-
 ## 👩‍💻 About Me
 
 - 🎓 I'm a Computer Engineering student.
 - 💻 I enjoy programming and building practical projects.
 - 🌱 Currently learning HTML, CSS, and Web Development.
 - 🚀 Interested in software development and open-source projects.
-- 🎯 My goal is to become a skilled software developer.
 - 📚 I believe in learning by building projects.
-
 ---
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krupa-makwana-33552231a) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krupamakwana16@gmail.com)
